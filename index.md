@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Laboratório de Estudos Experimentais em Linguagem 
+
+### Grupo de Linguagem e Processos Cognitivos
 
 You can use the [editor on GitHub](https://github.com/leelinufrn/leelin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
